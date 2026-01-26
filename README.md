@@ -1,12 +1,9 @@
 # SP26_HAP455_Week2
 Assignment 2.1
-## Introduction to Python for Health Applications  
-## Collaborative GitHub Programming Assignment
+## Introduction to Programming in Health Applications  
+## GitHub Programming Assignment - Collab
 
-This assignment teaches:
-- Basic Python programming
-- Writing and calling functions
-- GitHub collaboration (branches, commits, pull requests, merging)
+This assignment introduces the basics of navigating and collaborating on GitHub. Students will learn how to create branches, manage pull requests, and push or commit changes. This ensures students acquire the foundational knowledge needed to use this platform for managing the software development lifecycle."
 
 You will work in a **shared GitHub repository**, similar to real-world health tech projects.
 
@@ -16,26 +13,27 @@ You will work in a **shared GitHub repository**, similar to real-world health te
 
 Each student must:
 - Add ONE Python function named using `lastname_firstname`
-- Print health-related information
+- Print health-related information (creating dummy patient data)
 - Commit and push changes
 - Create a Pull Request (PR)
-- Merge into `main` without conflicts
 
 ---
 
 ## Required Software
 
-- Python 3.x
-- Git
-- GitHub account
+- Python 3.x (https://www.python.org/downloads/)
+- Git (github.com)
+- GitHub account (create a git account)
 
 ## Clone Git Project to local:
 ```
 git --version
 
 
-### git clone
+### git clone - Copy the command below and paste it into your terminal to download the source code
 git clone https://github.com/PulseInProd/SP26_HAP455_Week2
+
+### Once the clone is complete, move into the project directory:
 cd SP26_HAP455_Week2
 
 ### get the latest
