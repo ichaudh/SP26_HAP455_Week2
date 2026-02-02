@@ -10,7 +10,7 @@ def main():
     # Add your function call below this line
     # Example:
     lastname_firstname()
-    tah_har()
+    hus_nid()
 
     # ==== END STUDENT FUNCTION CALLS ====
 
@@ -39,6 +39,11 @@ def tah_har():
     print("Patient Name: Mark Zuckerberg")
     print("Patient Age: 40")
     print("Diagnosis: Asperger Syndrome")
+
+def hus_nid(): 
+    print("Patient Name: Mike james")
+    print("Patient Age: 36")
+    print("Diagnosis: Hypothyroidism")   
 
 # ==== END STUDENT CODE SECTION ====
 
